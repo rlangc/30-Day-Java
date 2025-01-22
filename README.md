@@ -199,3 +199,8 @@ Here are some helpful tips to make your Java learning journey more effective:
 7. Join Communities
 
     Join online forums, such as Stack Overflow, Reddit, or Java-focused groups. Asking questions and reading answers will deepen your understanding.
+
+<p align="center">
+  <a href="https://github.com/rlangc/30-Day-Learning.git"><b>Return to 30 Day Learning Strategy</b></a>
+<p align="center">
+  <a href="https://github.com/rlangc/Test_RCL.git"><b>Return to Home</b></a>
